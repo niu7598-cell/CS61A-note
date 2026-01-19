@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+
+# 可选：不想提交压缩包就打开这一行
+*.zip
